@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LensEquations/static/css/main.91ddf3b9.css",
+    "main.js": "/LensEquations/static/js/main.110f429f.js",
+    "static/js/317.506447fd.chunk.js": "/LensEquations/static/js/317.506447fd.chunk.js",
+    "index.html": "/LensEquations/index.html",
+    "main.91ddf3b9.css.map": "/LensEquations/static/css/main.91ddf3b9.css.map",
+    "main.110f429f.js.map": "/LensEquations/static/js/main.110f429f.js.map",
+    "317.506447fd.chunk.js.map": "/LensEquations/static/js/317.506447fd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91ddf3b9.css",
+    "static/js/main.110f429f.js"
+  ]
+}
